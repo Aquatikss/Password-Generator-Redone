@@ -40,8 +40,8 @@ bash pip install pyperclip
 
 Run the program:
 ```
-bash python main.py
-``` 
+bash python window.py
+```
 
 1. Select desired password criteria using checkboxes
 2. Choose password length using the slider
